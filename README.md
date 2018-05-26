@@ -1,2 +1,2 @@
 # -FlinkWordCount
-Apache Flink Word Count Examle
+Apache Flink Word Count Example
